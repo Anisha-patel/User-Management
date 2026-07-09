@@ -1,0 +1,29 @@
+body{
+    font-family: sans-serif;
+    background: #f4f6f8;
+    padding:40px;
+}
+h2{
+    color:#1e293b;
+    margin-bottom: 20px;
+}
+form input,button{
+    padding: 8px;
+    margin: 5px;
+}
+table{
+    width: 60%;
+    margin-top: 20px;
+    border-collapse: collapse;
+    background: #ffffff;
+}
+table,th,td{
+    border: 1px solid #ccc;
+}
+th{
+    background:#3b54a8;
+    color: white;
+}
+tr:nth-child(even){
+    background: #eef2ff;
+}
