@@ -5,10 +5,10 @@ This is a full stack web application built to manage user details through a simp
 via a form and view all stored users and details in a table.
 
 ##Technologies Used
-**Frontend:** HTML, CSS
-**Backend:** Python (Flask)
-**Database:** SQLite
-**Tools:** VS Code, Browser
+- **Frontend:** HTML, CSS
+- **Backend:** Python (Flask)
+- **Database:** SQLite
+- **Tools:** VS Code, Browser
 
 ## Project Flow
 1.The user opens the home page (index.html), which displays a form to enter Name and Email.
